@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Hola Guada!! Tiene 3 meses de edad.
+=======
+Hola Guada!!
+Que bueno verte!
+>>>>>>> 84f2ccdf7e14e032334376312126380ec11060a5
